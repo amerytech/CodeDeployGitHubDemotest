@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Bucket>aws-codedeploy-us-west-2</Bucket><Endpoint>aws-codedeploy-us-west-2.s3.amazonaws.com</Endpoint><RequestId>A7D40D020126D3AF</RequestId><HostId>A1LXKJ/fNBgD6SN+Aw3FO8UrbhdhRSkn9HSsYWkE+pVkRy+1yx2uvvr3Q6fyD4gG2WEkN3lESmw=</HostId></Error>
